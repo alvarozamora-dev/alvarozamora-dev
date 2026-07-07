@@ -41,14 +41,14 @@
 
 ### 🚀 Proyecto Destacado
 
-#### 🎮 [Trophy Hunters](https://github.com/alvarozamora/trophy-hunters) — *En Desarrollo Activo*
+#### 🎮 [Trophy Hunters](https://github.com/alvarozamora-dev/trophy-hunters) — *En Desarrollo Activo*
 Plataforma web dirigida a la comunidad de jugadores enfocados en la caza de trofeos y logros multiplataforma (PlayStation, Xbox y Steam). El objetivo principal es realizar el tracking unificado de objetivos y visualizar progresos de forma dinámica.
 
 * **Arquitectura y Stack:** React, Tailwind CSS, REST APIs (RAWG), Git.
 * **Enfoque Técnico:** Integración de APIs de videojuegos en tiempo real, simulación híbrida de datos mediante archivos JSON locales para el tracking de trofeos/logros y manipulación dinámica de estados en componentes interactivos.
 * **Estado:** Planificando la estructura base de componentes y maquetación UI.
 
-• [Ver Código del Repositorio](https://github.com/alvarozamora/trophy-hunters) • [Reportar un Problema](https://github.com/alvarozamora/trophy-hunters/issues)
+• [Ver Código del Repositorio](https://github.com/alvarozamora-dev/trophy-hunters) • [Reportar un Problema](https://github.com/alvarozamora-dev/trophy-hunters/issues)
 
 ### Dónde encontrarme
 
